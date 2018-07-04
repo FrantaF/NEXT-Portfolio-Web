@@ -1,0 +1,100 @@
+.navbar-dark {	
+	background-color: #763626;
+}
+.navbar-dark a{
+	color: white!important;
+}
+.row-header{
+	margin: 0px auto;
+	padding: 0px auto;
+}
+
+.row-header h1{
+	margin-top: 2%;
+}
+
+.jumbotron{
+	padding: 70px 30px 50px 30px;
+	margin: 0px auto;	
+	color: floralwhite;
+	text-align: center;	
+	background-color: #336B87;
+}
+
+#about{
+	margin-top: 2%;
+}
+.row-content{
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height: 400px;
+}
+body{
+	padding: 50px 0px 0px 0px;
+	z-index: 0;
+	text-align: center;
+	background-color: white;
+}
+
+.qualifiactions{
+	margin-top: 2.5%;
+	padding-bottom: 2.5%;			
+}
+.qualifiactions ul{
+	text-align: left;
+}
+.technical-knowledge{	
+	margin-top: 2.5%;
+	padding-bottom: 2.5%;
+}
+
+.technical-knowledge ul{
+	text-align: left;
+}
+
+.coursera-carousel{
+	margin-top: 2%;
+}
+
+.portfolio-button{
+	margin-top: 2%;
+}
+
+.portfolio-project{
+	margin-top: 5%;
+}
+
+.modal-body{
+	text-align: left;
+}
+
+.second-row-content{
+	margin-top: 2%;
+}
+
+#contact{
+	padding-bottom: 0px;
+	margin-bottom: 0px;	
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.contact-list{
+	text-align: center;
+	display: block;
+	list-style-type: none;	
+}
+.contact-list a{
+	color: black;
+}
+
+.footer {	
+	margin: 0px;
+	padding: 10px 0px 0px 0px;
+	margin-top: 2%;
+	text-align: center;
+	background-color: #336B87;
+	color: white;
+}
+
